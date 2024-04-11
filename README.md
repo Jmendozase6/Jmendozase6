@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://res.cloudinary.com/dgna2mogt/image/upload/v1712806035/zkirmgeywbxg2ucimzmb.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -122,11 +118,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Jmendozase6/Jmendozase6/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=jhairms6&theme=dark" alt="Layout with last medium posts"  />
-</div>
 
 ###
